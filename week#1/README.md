@@ -1,6 +1,5 @@
 ### WEEK#1 
 
-<img style="float:right;" src="https://socialify.git.ci/saadfareed/MLSA-Job-Hunting-bootcamp/image?descriptionEditable=saad&font=Inter&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" height="280" />
 
 - Motivation behind the Boot-camp
 - Scope of Pakistan and International market
@@ -12,3 +11,4 @@
 - How to make a good profile(GitHub)
 - How to get involve in Tech through GitHub
 
+<img style="float:right;" src="https://socialify.git.ci/saadfareed/MLSA-Job-Hunting-bootcamp/image?descriptionEditable=saad&font=Inter&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" height="280" />
