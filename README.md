@@ -16,23 +16,23 @@
 
 ## Prerequisite of The Course
 ## Lecture#1:
-<p align="left"> Finally, your GitHub profile page is useful! No more boring profile. Customize it with a new feature! I'm going to show you how to create an amazing GitHub profile README and take it to the next level by using Github actions.</p>
-<p align="left"> We are going to create the GitHub account, and profile repo, add a README.md file, and much much more features to make it perfect and ready to share.</p>
+<p> Finally, your GitHub profile page is useful! No more boring profile. Customize it with a new feature! I'm going to show you how to create an amazing GitHub profile README and take it to the next level by using Github actions.</p>
+<p> We are going to create the GitHub account, and profile repo, add a README.md file, and much much more features to make it perfect and ready to share.</p>
 
 - [Github Profile Building Lecture#1](https://www.youtube.com/watch?v=UB2CT6nEQjo).
 <img alt="https://www.youtube.com/watch?v=UB2CT6nEQjo" src="Template/lecture%232.png" width="600" />
 
 
 ## Lecture#2:
-<p align="left"> Finally, your GitHub profile page is useful! No more boring profile. Customize it with a new feature! I'm going to show you how to create an amazing GitHub profile README and take it to the next level by using Github actions.</p>
-<p align="left"> We are going to create the GitHub account, and profile repo, add a README.md file, and much much more features to make it perfect and ready to share.</p>
+<p> .</p>
+<p> We are going to create the workflows, and Automated Contribution 3d graph, add Github Api's, and much much more features to make it perfect and ready to share.</p>
 
 - [Github Profile Building Lecture#2](https://www.youtube.com/watch?v=cMyMr3qpjEo).
 <img alt="https://www.youtube.com/watch?v=cMyMr3qpjEo" src="Template/lecture%231.png" width="600" />
 
 ## Lecture#3:
-<p align="left"> Finally, your GitHub profile page is useful! No more boring profile. Customize it with a new feature! I'm going to show you how to create an amazing GitHub profile README and take it to the next level by using Github actions.</p>
-<p align="left"> We are going to create the GitHub account, and profile repo, add a README.md file, and much much more features to make it perfect and ready to share.</p>
+<p> Despite the promise of improved workflow, lines and blocks of code generation, and time savings from GitHub Copilot, I can't in good faith recommend this tool to anybody.
+</p>
 
 - [Github Copilot AI-pair programmer](https://www.youtube.com/watch?v=r0rcDxus0Rw).
 <img alt="https://www.youtube.com/watch?v=r0rcDxus0Rw" src="Template/lecture%233.png" width="600" />
