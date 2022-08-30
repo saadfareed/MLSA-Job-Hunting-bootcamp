@@ -2,7 +2,7 @@
 # Bootcamp alert
 [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) is started soon.
 
-<img alt="" src="https://socialify.git.ci/saadfareed/MLSA-Job-Hunting-bootcamp/image?descriptionEditable=saad&font=Inter&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="550" />
+<img alt="" src="https://socialify.git.ci/saadfareed/MLSA-Job-Hunting-bootcamp/image?descriptionEditable=saad&font=Inter&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="750" />
 
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
@@ -23,4 +23,4 @@
 
 
 - [Github Copilot AI-pair programmer](https://www.youtube.com/watch?v=r0rcDxus0Rw).
-<img alt="" src="Template\lecture#3.png" width="550" />
+<img alt="" src="\Template\lecture#3.png" width="550" />
