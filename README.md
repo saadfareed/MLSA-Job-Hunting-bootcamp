@@ -23,4 +23,4 @@
 
 
 - [Github Copilot AI-pair programmer](https://www.youtube.com/watch?v=r0rcDxus0Rw).
-<a href="./Template/lecture#3.png"><img alt="" src="./Template/lecture#3.png" width="550" /></a>
+<a href="blob/main/Template/lecture%231.png"><img alt="" src="./main/Template/lecture%231.png" width="550" /></a>
