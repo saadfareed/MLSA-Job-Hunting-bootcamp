@@ -16,11 +16,4 @@
 
 ## Prerequisite of The Course
 - [Github Profile Building Lecture#1](https://www.youtube.com/watch?v=UB2CT6nEQjo).
-<img alt="" src="./Template/lecture#1.png" width="550" />
-
-- [Github Profile Building Lecture#2](https://www.youtube.com/watch?v=cMyMr3qpjEo).
-<img alt="" src="./Template/lecture#2.png" width="550" />
-
-
-- [Github Copilot AI-pair programmer](https://www.youtube.com/watch?v=r0rcDxus0Rw).
-<a href="blob/main/Template/lecture%231.png"><img alt="" src="./main/Template/lecture%231.png" width="550" /></a>
+![](Template/lecture%231.png)
