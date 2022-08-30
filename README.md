@@ -16,22 +16,24 @@
 
 ## Prerequisite of The Course
 ## Lecture#1:
-<p> Finally, your GitHub profile page is useful! No more boring profile. Customize it with a new feature! I'm going to show you how to create an amazing GitHub profile README and take it to the next level by using Github actions.</p>
-<p> We are going to create the GitHub account, and profile repo, add a README.md file, and much much more features to make it perfect and ready to share.</p>
+<p align="left"> Finally, your GitHub profile page is useful! No more boring profile. Customize it with a new feature! I'm going to show you how to create an amazing GitHub profile README and take it to the next level by using Github actions.</p>
+<p align="left"> We are going to create the GitHub account, and profile repo, add a README.md file, and much much more features to make it perfect and ready to share.</p>
 
 - [Github Profile Building Lecture#1](https://www.youtube.com/watch?v=UB2CT6nEQjo).
-<img align="right" alt="https://www.youtube.com/watch?v=UB2CT6nEQjo" src="Template/lecture%232.png" width="600" />
+<img alt="https://www.youtube.com/watch?v=UB2CT6nEQjo" src="Template/lecture%232.png" width="600" />
 
 
 ## Lecture#2:
-<p> Finally, your GitHub profile page is useful! No more boring profile. Customize it with a new feature! I'm going to show you how to create an amazing GitHub profile README and take it to the next level by using Github actions.</p>
-<p> We are going to create the GitHub account, and profile repo, add a README.md file, and much much more features to make it perfect and ready to share.</p>
+<p align="left"> Finally, your GitHub profile page is useful! No more boring profile. Customize it with a new feature! I'm going to show you how to create an amazing GitHub profile README and take it to the next level by using Github actions.</p>
+<p align="left"> We are going to create the GitHub account, and profile repo, add a README.md file, and much much more features to make it perfect and ready to share.</p>
+
 - [Github Profile Building Lecture#2](https://www.youtube.com/watch?v=cMyMr3qpjEo).
-<img align="right" alt="https://www.youtube.com/watch?v=cMyMr3qpjEo" src="Template/lecture%231.png" width="600" />
+<img alt="https://www.youtube.com/watch?v=cMyMr3qpjEo" src="Template/lecture%231.png" width="600" />
 
 ## Lecture#3:
-<p> Finally, your GitHub profile page is useful! No more boring profile. Customize it with a new feature! I'm going to show you how to create an amazing GitHub profile README and take it to the next level by using Github actions.</p>
-<p> We are going to create the GitHub account, and profile repo, add a README.md file, and much much more features to make it perfect and ready to share.</p>
+<p align="left"> Finally, your GitHub profile page is useful! No more boring profile. Customize it with a new feature! I'm going to show you how to create an amazing GitHub profile README and take it to the next level by using Github actions.</p>
+<p align="left"> We are going to create the GitHub account, and profile repo, add a README.md file, and much much more features to make it perfect and ready to share.</p>
+
 - [Github Copilot AI-pair programmer](https://www.youtube.com/watch?v=r0rcDxus0Rw).
-<img align="right" alt="https://www.youtube.com/watch?v=r0rcDxus0Rw" src="Template/lecture%233.png" width="600" />
+<img alt="https://www.youtube.com/watch?v=r0rcDxus0Rw" src="Template/lecture%233.png" width="600" />
 
