@@ -22,9 +22,7 @@
 - [Github Profile Building Lecture#1](https://www.youtube.com/watch?v=UB2CT6nEQjo).
 <img alt="https://www.youtube.com/watch?v=UB2CT6nEQjo" src="Template/lecture%232.png" width="600" />
 
-
 ## Lecture#2:
-<p> .</p>
 <p> We are going to create the workflows, and Automated Contribution 3d graph, add Github Api's, and much much more features to make it perfect and ready to share.</p>
 
 - [Github Profile Building Lecture#2](https://www.youtube.com/watch?v=cMyMr3qpjEo).
